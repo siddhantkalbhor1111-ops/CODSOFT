@@ -1,0 +1,17 @@
+.hero {
+    text-align: center;
+    padding: 50px;
+    background: lightblue;
+}
+
+.features {
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
+
+.box {
+    background: gray;
+    padding: 20px;
+    color: white;
+}
